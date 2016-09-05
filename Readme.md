@@ -1,3 +1,7 @@
+# Eko Note
+
+This is a slightly custom build of superagent which forces the web version to work around an issue with electron.
+
 # SuperAgent
 
 SuperAgent is a small progressive __client-side__ HTTP request library, and __Node.js__ module with the same API, sporting many high-level HTTP client features. View the [docs](http://visionmedia.github.io/superagent/).
